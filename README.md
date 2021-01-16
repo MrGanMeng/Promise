@@ -1,4 +1,6 @@
-# Promise
+### Promise
+
+```tsx
 // 定义 Promise 的三种状态
 const Pending = 'pending';
 const Resolved = 'resolved';
@@ -128,4 +130,8 @@ class Promise {
 }
 
 export default Promise;
+
+```
+
+
 
